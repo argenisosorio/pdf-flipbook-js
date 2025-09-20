@@ -9,8 +9,35 @@ body {
 
 ._df_book {
     border-radius: 20px;
+    background-color: lightgray !important;
 }
 
 .df-ui-wrapper {
     border: ridge 1px transparent !important;
 }
+
+/*
+.df-page-content {
+    border: ridge 1px red !important;
+    -webkit-box-shadow: -1px 0px 25px 1px gray;
+    -moz-box-shadow: -1px 0px 25px 1px gray;
+    box-shadow: -1px 0px 25px 1px gray;
+
+}
+*/
+
+/*
+.df-page-content-left {
+    border: ridge 1px transparent !important;
+}
+
+.df-page-content-right {
+    border: ridge 1px transparent !important;
+}
+*/
+
+/*
+.annotationDiv {
+    border: ridge 1px red !important;
+}
+*/
