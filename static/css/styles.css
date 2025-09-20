@@ -1,0 +1,16 @@
+body {
+    background: lightgray;
+}
+
+.main-container {
+    padding-bottom: 30px;
+    border: ridge 1px transparent;
+}
+
+._df_book {
+    border-radius: 20px;
+}
+
+.df-ui-wrapper {
+    border: ridge 1px transparent !important;
+}
